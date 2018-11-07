@@ -1,0 +1,10 @@
+Sudëkite informacijà á stulpelius, kad:
+
+Mobilûs ir maþi árenginiai (narðyklës plotis < 768px)
+Visi blokeliai ið "Top stories" ir "What's new" rodomi vienas po kitu.
+
+Tablet (767px < ekrano plotis < 992px)
+"Top stories" ir "What's new" blokai rodomi vienas ðalia kito santykiu 8:4.
+
+Desktop (ekrano plotis > 991px)
+"Top stories" viduje esantys straipsniai rodomi po du, vienodo ploèio.
